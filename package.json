@@ -13,7 +13,7 @@
     "express": "^4.18.2",
     "newsapi": "^2.4.0",
     "node-fetch": "^2.6.0",
-    "twilio": "^3.41.1",
+    "twilio": "^4.20.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
